@@ -1,0 +1,2 @@
+# Fifa-Player-Analysis-System
+Performed Analysis on a FIFA players’ dataset using various data visualization and representation tools in Python. Performed data cleaning, data preparation, data analysis and visualization on the dataset. Extracted value of players based on their personal as well as field attributes. The system provides a correlation matrix – attributes vs potential &amp; overall of any particular player 
